@@ -197,7 +197,7 @@ between them without re-tuning every value.
 
 ---
 
-*dead-by-daylight-grid · Updated 2026-10-26 · Shared under the MIT License*
+*dead-by-daylight-grid · Updated 2026-10-27 · Shared under the MIT License*
 
 
-Updated 2026-10-26.
+Updated 2026-10-27.
